@@ -8,24 +8,6 @@ from [Think Python, 2nd
 edition](https://greenteapress.com/wp/think-python-2e/) by Allen B.
 Downey.
 
-## Developer Guide
-
-If you are new to using `nbdev` here are some useful pointers to get you
-started.
-
-### Install nbdev_cards in Development mode
-
-``` sh
-# make sure nbdev_cards package is installed in development mode
-$ pip install -e .
-
-# make changes under nbs/ directory
-# ...
-
-# compile to have changes apply to nbdev_cards
-$ nbdev_prepare
-```
-
 ## Usage
 
 ### Installation
